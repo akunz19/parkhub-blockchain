@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-challenge",
+  "version": "1.0.0",
+  "description": "parkhub blockchain challenge",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Amanda Kunz",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
